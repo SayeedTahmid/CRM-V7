@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pydantic==1.10.9
+python-dotenv==1.0.0
+firebase-admin==6.1.0
+python-multipart==0.0.6
+aiofiles==23.1.0
